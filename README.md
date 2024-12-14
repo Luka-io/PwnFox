@@ -105,7 +105,7 @@ Soon Demo Content will be avaible...
 
 ## 🤝 Sponsored by JLCPCB
 
-Special thanks to JLCPCB for sponsoring the PCB manufacturing for this project. Order high-quality PCBs for your next project at [JLCPCB](https://jlcpcb.com/). Share your order details to receive exclusive coupons for your future projects.
+Special thanks to JLCPCB for sponsoring the PCB manufacturing for this project. Order high-quality PCBs for your next project at [JLCPCB](https://jlcpcb.com/). https://jlcpcb.com/?from=see
 
 ---
 
