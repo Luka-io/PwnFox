@@ -10,7 +10,7 @@ An innovative open-source hardware and software platform designed for creating a
 - **Expandable Storage**: MicroSD card slot for additional data storage.
 - **Connectivity Options**: USB-C with LiPo charging capabilities.
 - **User-Friendly Interface**: Custom UI in a retro pixelart style.
-- **Advanced Protocols**: Supports IR, RFID, and sub-GHz communication.
+- **Advanced Protocols**: Supports IR, RFID/NFC, and sub-GHz ...etz..communication.
 
 ---
 
