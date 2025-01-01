@@ -116,6 +116,6 @@ This project is in active development. Use at your own risk.
 Legal Disclaimer
 This device and software are tools designed for cybersecurity education, authorized penetration testing, and research purposes only. Their use must comply with all applicable laws and regulations. Unauthorized or malicious activities using this project are strictly prohibited.
 
-By downloading, using, or modifying this project, you agree to act responsibly and respect the rights of others. This project is provided under an open-source license [add license name], allowing for modification and redistribution, provided that proper credit is maintained.
+By downloading, using, or modifying this project, you agree to act responsibly and respect the rights of others. This project is provided under an open-source license. GNU Affero General Public License v3.0, allowing for modification and redistribution, provided that proper credit is maintained.
 
 The developers assume no liability for misuse or any damage caused by the use of this project. All usage is at your own risk, and it is your responsibility to ensure compliance with local laws.
